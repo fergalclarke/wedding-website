@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300">
+
+  <!-- ============================================================
+       Virginia Park Lodge — Copper-plate engraving illustration
+       Style: fine-line architectural etching, ivory ground
+       ============================================================ -->
+
+  <!-- BACKGROUND -->
+  <rect width="760" height="300" fill="#f9f6f0"/>
+
+  <!-- SKY — very faint wide-spaced horizontal lines -->
+  <g stroke="#1e1208" stroke-width="0.4" opacity="0.18">
+    <line x1="0"   y1="18"  x2="760" y2="18"/>
+    <line x1="0"   y1="28"  x2="760" y2="28"/>
+    <line x1="0"   y1="38"  x2="760" y2="38"/>
+    <line x1="0"   y1="48"  x2="760" y2="48"/>
+    <line x1="0"   y1="58"  x2="760" y2="58"/>
+  </g>
+
+  <!-- ============================================================
+       TREES — LEFT
+       ============================================================ -->
+  <!-- Trunk & main branches -->
+  <line x1="92"  y1="252" x2="90"  y2="172" stroke="#1e1208" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="90"  y1="210" x2="70"  y2="193" stroke="#1e1208" stroke-width="2"   stroke-linecap="round"/>
+  <line x1="91"  y1="200" x2="112" y2="187" stroke="#1e1208" stroke-width="2"   stroke-linecap="round"/>
+  <line x1="90"  y1="185" x2="74"  y2="172" stroke="#1e1208" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="90"  y1="180" x2="106" y2="170" stroke="#1e1208" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Outer foliage silhouette -->
+  <path d="M 52 178 C 44 162 50 144 62 136 C 55 120 66 108 78 108
+           C 80 96 90 88 102 90 C 110 82 124 84 130 96
+           C 142 96 150 108 146 122 C 158 130 158 146 150 158
+           C 156 168 152 182 140 188 C 136 202 122 208 110 204
+           C 104 214 90 216 80 210 C 68 214 56 206 52 194 Z"
+        fill="#f9f6f0" stroke="#1e1208" stroke-width="0.9"/>
+
+  <!-- Inner foliage masses (layered blobs typical of etching) -->
+  <path d="M 62 160 C 56 150 60 138 70 134 C 64 124 72 114 82 116
+           C 84 108 92 104 100 108 C 106 102 116 104 118 114
+           C 128 114 134 124 130 134 C 138 140 136 152 128 158"
+        fill="none" stroke="#1e1208" stroke-width="0.7"/>
+  <path d="M 68 175 C 64 165 68 155 76 150 C 72 142 76 132 84 132
+           C 86 124 94 120 102 124"
+        fill="none" stroke="#1e1208" stroke-width="0.6"/>
+
+  <!-- Foliage cross-hatching (NW–SE diagonals suggest shadow) -->
+  <g stroke="#1e1208" stroke-width="0.45" opacity="0.65">
+    <line x1="66"  y1="148" x2="74"  y2="156"/>
+    <line x1="69"  y1="154" x2="78"  y2="163"/>
+    <line x1="72"  y1="160" x2="81"  y2="169"/>
+    <line x1="75"  y1="166" x2="83"  y2="174"/>
+    <line x1="78"  y1="172" x2="85"  y2="179"/>
+    <line x1="81"  y1="177" x2="87"  y2="183"/>
+    <line x1="57"  y1="175" x2="65"  y2="183"/>
+    <line x1="60"  y1="181" x2="67"  y2="188"/>
+    <line x1="63"  y1="186" x2="69"  y2="192"/>
+    <line x1="96"  y1="140" x2="104" y2="148"/>
+    <line x1="99"  y1="146" x2="108" y2="155"/>
+    <line x1="102" y1="152" x2="112" y2="162"/>
+    <line x1="106" y1="158" x2="115" y2="167"/>
+    <line x1="110" y1="164" x2="118" y2="172"/>
+    <line x1="114" y1="170" x2="121" y2="177"/>
+    <line x1="118" y1="176" x2="124" y2="182"/>
+    <line x1="121" y1="181" x2="127" y2="187"/>
+    <line x1="124" y1="186" x2="129" y2="191"/>
+    <line x1="127" y1="190" x2="132" y2="195"/>
+  </g>
+
+  <!-- Low shrub left -->
+  <path d="M 124 234 C 120 226 124 218 130 216 C 128 210 134 206 140 210
+           C 142 204 150 202 155 207 C 158 202 166 202 168 209
+           C 172 208 176 214 173 220 C 176 225 172 232 166 233
+           C 162 238 154 238 150 233 C 144 238 134 237 124 234 Z"
+        fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+  <path d="M 128 228 C 132 222 138 218 144 219 C 148 214 156 212 162 216"
+        fill="none" stroke="#1e1208" stroke-width="0.5"/>
+
+  <!-- ============================================================
+       TREES — RIGHT (mirrored)
+       ============================================================ -->
+  <line x1="668" y1="252" x2="670" y2="172" stroke="#1e1208" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="670" y1="210" x2="690" y2="193" stroke="#1e1208" stroke-width="2"   stroke-linecap="round"/>
+  <line x1="669" y1="200" x2="648" y2="187" stroke="#1e1208" stroke-width="2"   stroke-linecap="round"/>
+  <line x1="670" y1="185" x2="686" y2="172" stroke="#1e1208" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="670" y1="180" x2="654" y2="170" stroke="#1e1208" stroke-width="1.5" stroke-linecap="round"/>
+
+  <path d="M 708 178 C 716 162 710 144 698 136 C 705 120 694 108 682 108
+           C 680 96 670 88 658 90 C 650 82 636 84 630 96
+           C 618 96 610 108 614 122 C 602 130 602 146 610 158
+           C 604 168 608 182 620 188 C 624 202 638 208 650 204
+           C 656 214 670 216 680 210 C 692 214 704 206 708 194 Z"
+        fill="#f9f6f0" stroke="#1e1208" stroke-width="0.9"/>
+
+  <path d="M 698 160 C 704 150 700 138 690 134 C 696 124 688 114 678 116
+           C 676 108 668 104 660 108 C 654 102 644 104 642 114
+           C 632 114 626 124 630 134 C 622 140 624 152 632 158"
+        fill="none" stroke="#1e1208" stroke-width="0.7"/>
+  <path d="M 692 175 C 696 165 692 155 684 150 C 688 142 684 132 676 132
+           C 674 124 666 120 658 124"
+        fill="none" stroke="#1e1208" stroke-width="0.6"/>
+
+  <g stroke="#1e1208" stroke-width="0.45" opacity="0.65">
+    <line x1="694" y1="148" x2="686" y2="156"/>
+    <line x1="691" y1="154" x2="682" y2="163"/>
+    <line x1="688" y1="160" x2="679" y2="169"/>
+    <line x1="685" y1="166" x2="677" y2="174"/>
+    <line x1="682" y1="172" x2="675" y2="179"/>
+    <line x1="679" y1="177" x2="673" y2="183"/>
+    <line x1="703" y1="175" x2="695" y2="183"/>
+    <line x1="700" y1="181" x2="693" y2="188"/>
+    <line x1="697" y1="186" x2="691" y2="192"/>
+    <line x1="664" y1="140" x2="656" y2="148"/>
+    <line x1="661" y1="146" x2="652" y2="155"/>
+    <line x1="658" y1="152" x2="648" y2="162"/>
+    <line x1="654" y1="158" x2="645" y2="167"/>
+    <line x1="650" y1="164" x2="642" y2="172"/>
+    <line x1="646" y1="170" x2="639" y2="177"/>
+    <line x1="642" y1="176" x2="636" y2="182"/>
+    <line x1="639" y1="181" x2="633" y2="187"/>
+    <line x1="636" y1="186" x2="631" y2="191"/>
+    <line x1="633" y1="190" x2="628" y2="195"/>
+  </g>
+
+  <!-- Low shrub right -->
+  <path d="M 636 234 C 640 226 636 218 630 216 C 632 210 626 206 620 210
+           C 618 204 610 202 605 207 C 602 202 594 202 592 209
+           C 588 208 584 214 587 220 C 584 225 588 232 594 233
+           C 598 238 606 238 610 233 C 616 238 626 237 636 234 Z"
+        fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+  <path d="M 632 228 C 628 222 622 218 616 219 C 612 214 604 212 598 216"
+        fill="none" stroke="#1e1208" stroke-width="0.5"/>
+
+  <!-- ============================================================
+       BUILDING — painted over background so trees sit behind
+       ============================================================ -->
+
+  <!-- LEFT WING -->
+  <rect x="148" y="116" width="92" height="119" fill="#f9f6f0" stroke="#1e1208" stroke-width="1.2"/>
+  <!-- Wing floor division -->
+  <line x1="148" y1="175" x2="240" y2="175" stroke="#1e1208" stroke-width="0.8"/>
+  <!-- Wing cornice cap -->
+  <line x1="146" y1="112" x2="242" y2="112" stroke="#1e1208" stroke-width="1"/>
+  <line x1="146" y1="108" x2="242" y2="108" stroke="#1e1208" stroke-width="0.5"/>
+
+  <!-- RIGHT WING -->
+  <rect x="520" y="116" width="92" height="119" fill="#f9f6f0" stroke="#1e1208" stroke-width="1.2"/>
+  <line x1="520" y1="175" x2="612" y2="175" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="518" y1="112" x2="614" y2="112" stroke="#1e1208" stroke-width="1"/>
+  <line x1="518" y1="108" x2="614" y2="108" stroke="#1e1208" stroke-width="0.5"/>
+
+  <!-- MAIN BLOCK — painted on top so it overlaps wings -->
+  <rect x="238" y="68" width="284" height="167" fill="#f9f6f0" stroke="#1e1208" stroke-width="1.6"/>
+
+  <!-- Main block parapet cap lines -->
+  <line x1="236" y1="74"  x2="524" y2="74"  stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="236" y1="80"  x2="524" y2="80"  stroke="#1e1208" stroke-width="0.5"/>
+
+  <!-- Floor division line — main block -->
+  <line x1="238" y1="152" x2="522" y2="152" stroke="#1e1208" stroke-width="0.9"/>
+
+  <!-- String course just below parapet -->
+  <line x1="238" y1="92"  x2="522" y2="92"  stroke="#1e1208" stroke-width="0.6"/>
+
+  <!-- Quoins — left corner of main block -->
+  <g stroke="#1e1208" stroke-width="0.7">
+    <line x1="238" y1="100" x2="250" y2="100"/>
+    <line x1="238" y1="106" x2="248" y2="106"/>
+    <line x1="238" y1="118" x2="250" y2="118"/>
+    <line x1="238" y1="124" x2="248" y2="124"/>
+    <line x1="238" y1="136" x2="250" y2="136"/>
+    <line x1="238" y1="142" x2="248" y2="142"/>
+    <line x1="238" y1="162" x2="250" y2="162"/>
+    <line x1="238" y1="168" x2="248" y2="168"/>
+    <line x1="238" y1="180" x2="250" y2="180"/>
+    <line x1="238" y1="186" x2="248" y2="186"/>
+    <line x1="238" y1="198" x2="250" y2="198"/>
+    <line x1="238" y1="204" x2="248" y2="204"/>
+    <line x1="238" y1="216" x2="250" y2="216"/>
+    <line x1="238" y1="222" x2="248" y2="222"/>
+  </g>
+
+  <!-- Quoins — right corner of main block -->
+  <g stroke="#1e1208" stroke-width="0.7">
+    <line x1="522" y1="100" x2="510" y2="100"/>
+    <line x1="522" y1="106" x2="512" y2="106"/>
+    <line x1="522" y1="118" x2="510" y2="118"/>
+    <line x1="522" y1="124" x2="512" y2="124"/>
+    <line x1="522" y1="136" x2="510" y2="136"/>
+    <line x1="522" y1="142" x2="512" y2="142"/>
+    <line x1="522" y1="162" x2="510" y2="162"/>
+    <line x1="522" y1="168" x2="512" y2="168"/>
+    <line x1="522" y1="180" x2="510" y2="180"/>
+    <line x1="522" y1="186" x2="512" y2="186"/>
+    <line x1="522" y1="198" x2="510" y2="198"/>
+    <line x1="522" y1="204" x2="512" y2="204"/>
+    <line x1="522" y1="216" x2="510" y2="216"/>
+    <line x1="522" y1="222" x2="512" y2="222"/>
+  </g>
+
+  <!-- Shadow hatching under parapet overhang -->
+  <g stroke="#1e1208" stroke-width="0.4" opacity="0.45">
+    <line x1="238" y1="81" x2="240" y2="83"/>  <line x1="243" y1="81" x2="247" y2="85"/>
+    <line x1="250" y1="81" x2="255" y2="86"/>  <line x1="258" y1="81" x2="263" y2="86"/>
+    <line x1="266" y1="81" x2="271" y2="86"/>  <line x1="274" y1="81" x2="279" y2="86"/>
+    <line x1="282" y1="81" x2="287" y2="86"/>  <line x1="290" y1="81" x2="295" y2="86"/>
+    <line x1="298" y1="81" x2="303" y2="86"/>  <line x1="306" y1="81" x2="311" y2="86"/>
+    <line x1="314" y1="81" x2="319" y2="86"/>  <line x1="322" y1="81" x2="327" y2="86"/>
+    <line x1="330" y1="81" x2="335" y2="86"/>  <line x1="338" y1="81" x2="343" y2="86"/>
+    <line x1="346" y1="81" x2="351" y2="86"/>  <line x1="354" y1="81" x2="359" y2="86"/>
+    <line x1="362" y1="81" x2="367" y2="86"/>  <line x1="370" y1="81" x2="375" y2="86"/>
+    <line x1="378" y1="81" x2="383" y2="86"/>  <line x1="386" y1="81" x2="391" y2="86"/>
+    <line x1="394" y1="81" x2="399" y2="86"/>  <line x1="402" y1="81" x2="407" y2="86"/>
+    <line x1="410" y1="81" x2="415" y2="86"/>  <line x1="418" y1="81" x2="423" y2="86"/>
+    <line x1="426" y1="81" x2="431" y2="86"/>  <line x1="434" y1="81" x2="439" y2="86"/>
+    <line x1="442" y1="81" x2="447" y2="86"/>  <line x1="450" y1="81" x2="455" y2="86"/>
+    <line x1="458" y1="81" x2="463" y2="86"/>  <line x1="466" y1="81" x2="471" y2="86"/>
+    <line x1="474" y1="81" x2="479" y2="86"/>  <line x1="482" y1="81" x2="487" y2="86"/>
+    <line x1="490" y1="81" x2="495" y2="86"/>  <line x1="498" y1="81" x2="503" y2="86"/>
+    <line x1="506" y1="81" x2="511" y2="86"/>  <line x1="514" y1="81" x2="519" y2="86"/>
+    <line x1="520" y1="81" x2="522" y2="83"/>
+  </g>
+
+  <!-- ============================================================
+       CHIMNEYS
+       ============================================================ -->
+  <rect x="288" y="36" width="20" height="34" fill="#f9f6f0" stroke="#1e1208" stroke-width="1.2"/>
+  <line x1="286" y1="40"  x2="310" y2="40"  stroke="#1e1208" stroke-width="0.6"/>
+  <!-- Chimney pots -->
+  <rect x="291" y="29" width="6"  height="9"  rx="1" fill="#f9f6f0" stroke="#1e1208" stroke-width="1"/>
+  <rect x="301" y="29" width="6"  height="9"  rx="1" fill="#f9f6f0" stroke="#1e1208" stroke-width="1"/>
+  <!-- Shadow on chimney (right face hatching) -->
+  <g stroke="#1e1208" stroke-width="0.4" opacity="0.5">
+    <line x1="301" y1="41" x2="307" y2="47"/>
+    <line x1="301" y1="47" x2="307" y2="53"/>
+    <line x1="301" y1="53" x2="307" y2="59"/>
+    <line x1="301" y1="59" x2="307" y2="65"/>
+  </g>
+
+  <rect x="452" y="36" width="20" height="34" fill="#f9f6f0" stroke="#1e1208" stroke-width="1.2"/>
+  <line x1="450" y1="40"  x2="474" y2="40"  stroke="#1e1208" stroke-width="0.6"/>
+  <rect x="455" y="29" width="6"  height="9"  rx="1" fill="#f9f6f0" stroke="#1e1208" stroke-width="1"/>
+  <rect x="465" y="29" width="6"  height="9"  rx="1" fill="#f9f6f0" stroke="#1e1208" stroke-width="1"/>
+  <g stroke="#1e1208" stroke-width="0.4" opacity="0.5">
+    <line x1="465" y1="41" x2="471" y2="47"/>
+    <line x1="465" y1="47" x2="471" y2="53"/>
+    <line x1="465" y1="53" x2="471" y2="59"/>
+    <line x1="465" y1="59" x2="471" y2="65"/>
+  </g>
+
+  <!-- ============================================================
+       WINDOWS — helper: each window = outer rect + cross panes
+       + diagonal hatching in upper-left pane (shadow / reflection)
+       ============================================================ -->
+
+  <!-- MAIN BLOCK · FIRST FLOOR · 5 WINDOWS
+       Bay width = 284/5 = 56.8, centres: 267, 324, 380, 437, 494
+       Window: 26 × 38 px, top y=109 -->
+
+  <!-- 1F Win A  cx=267 -->
+  <rect x="254" y="109" width="26" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="267" y1="109" x2="267" y2="147" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="254" y1="128" x2="280" y2="128" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="255" y1="110" x2="262" y2="117" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="255" y1="114" x2="263" y2="122" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="255" y1="118" x2="264" y2="127" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- 1F Win B  cx=324 -->
+  <rect x="311" y="109" width="26" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="324" y1="109" x2="324" y2="147" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="311" y1="128" x2="337" y2="128" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="312" y1="110" x2="319" y2="117" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="312" y1="114" x2="320" y2="122" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="312" y1="118" x2="321" y2="127" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- 1F Win C  cx=380 (centre bay) -->
+  <rect x="367" y="109" width="26" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="380" y1="109" x2="380" y2="147" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="367" y1="128" x2="393" y2="128" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="368" y1="110" x2="375" y2="117" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="368" y1="114" x2="376" y2="122" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="368" y1="118" x2="377" y2="127" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- 1F Win D  cx=437 -->
+  <rect x="424" y="109" width="26" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="437" y1="109" x2="437" y2="147" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="424" y1="128" x2="450" y2="128" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="425" y1="110" x2="432" y2="117" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="425" y1="114" x2="433" y2="122" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="425" y1="118" x2="434" y2="127" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- 1F Win E  cx=494 -->
+  <rect x="481" y="109" width="26" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="494" y1="109" x2="494" y2="147" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="481" y1="128" x2="507" y2="128" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="482" y1="110" x2="489" y2="117" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="482" y1="114" x2="490" y2="122" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="482" y1="118" x2="491" y2="127" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- MAIN BLOCK · GROUND FLOOR · WINDOWS (bays 1,2,4,5) + DOOR (bay 3)
+       Window: 26 × 48 px, top y=180 -->
+
+  <!-- GF Win A  cx=267 -->
+  <rect x="254" y="180" width="26" height="48" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="267" y1="180" x2="267" y2="228" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="254" y1="204" x2="280" y2="204" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="255" y1="181" x2="263" y2="189" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="255" y1="185" x2="264" y2="194" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="255" y1="189" x2="265" y2="199" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- GF Win B  cx=324 -->
+  <rect x="311" y="180" width="26" height="48" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="324" y1="180" x2="324" y2="228" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="311" y1="204" x2="337" y2="204" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="312" y1="181" x2="320" y2="189" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="312" y1="185" x2="321" y2="194" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="312" y1="189" x2="322" y2="199" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- ============================================================
+       ENTRANCE DOOR (centre bay, cx=380)
+       ============================================================ -->
+  <!-- Portico entablature -->
+  <line x1="354" y1="178" x2="406" y2="178" stroke="#1e1208" stroke-width="1.1"/>
+  <line x1="356" y1="174" x2="404" y2="174" stroke="#1e1208" stroke-width="0.6"/>
+  <line x1="358" y1="170" x2="402" y2="170" stroke="#1e1208" stroke-width="0.5"/>
+  <!-- Pediment triangle -->
+  <path d="M 358 170 L 380 156 L 402 170" fill="none" stroke="#1e1208" stroke-width="0.9"/>
+  <!-- Pediment hatching -->
+  <g stroke="#1e1208" stroke-width="0.35" opacity="0.5">
+    <line x1="365" y1="170" x2="368" y2="167"/> <line x1="369" y1="170" x2="374" y2="165"/>
+    <line x1="373" y1="170" x2="379" y2="164"/> <line x1="377" y1="170" x2="380" y2="167"/>
+    <line x1="381" y1="170" x2="383" y2="168"/> <line x1="385" y1="170" x2="380" y2="165"/>
+    <line x1="389" y1="170" x2="382" y2="163"/> <line x1="393" y1="170" x2="385" y2="162"/>
+    <line x1="397" y1="170" x2="389" y2="162"/>
+  </g>
+  <!-- Pilasters (columns) -->
+  <rect x="357" y="178" width="7" height="57" fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+  <rect x="396" y="178" width="7" height="57" fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+  <!-- Pilaster capitals -->
+  <rect x="355" y="175" width="11" height="4" fill="#f9f6f0" stroke="#1e1208" stroke-width="0.7"/>
+  <rect x="394" y="175" width="11" height="4" fill="#f9f6f0" stroke="#1e1208" stroke-width="0.7"/>
+  <!-- Door surround -->
+  <rect x="365" y="186" width="30" height="49" fill="#ede9df" stroke="#1e1208" stroke-width="1"/>
+  <!-- Fanlight arc above door -->
+  <path d="M 365 202 Q 380 190 395 202" fill="none" stroke="#1e1208" stroke-width="0.8"/>
+  <!-- Fanlight radiating spokes -->
+  <line x1="380" y1="191" x2="380" y2="202" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="372" y1="193" x2="374" y2="202" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="388" y1="193" x2="386" y2="202" stroke="#1e1208" stroke-width="0.4"/>
+  <!-- Door panel division -->
+  <line x1="380" y1="202" x2="380" y2="235" stroke="#1e1208" stroke-width="0.7"/>
+  <!-- Door panels -->
+  <rect x="367" y="204" width="11" height="13" fill="none" stroke="#1e1208" stroke-width="0.6" rx="0.5"/>
+  <rect x="382" y="204" width="11" height="13" fill="none" stroke="#1e1208" stroke-width="0.6" rx="0.5"/>
+  <rect x="367" y="220" width="11" height="13" fill="none" stroke="#1e1208" stroke-width="0.6" rx="0.5"/>
+  <rect x="382" y="220" width="11" height="13" fill="none" stroke="#1e1208" stroke-width="0.6" rx="0.5"/>
+  <!-- Door knocker / knob hints -->
+  <circle cx="378" cy="218" r="1.2" fill="#1e1208"/>
+  <circle cx="382" cy="218" r="1.2" fill="#1e1208"/>
+  <!-- Steps -->
+  <rect x="350" y="233" width="60" height="5"  fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+  <rect x="344" y="238" width="72" height="5"  fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+  <rect x="338" y="243" width="84" height="5"  fill="#f9f6f0" stroke="#1e1208" stroke-width="0.8"/>
+
+  <!-- GF Win D  cx=437 -->
+  <rect x="424" y="180" width="26" height="48" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="437" y1="180" x2="437" y2="228" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="424" y1="204" x2="450" y2="204" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="425" y1="181" x2="433" y2="189" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="425" y1="185" x2="434" y2="194" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="425" y1="189" x2="435" y2="199" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- GF Win E  cx=494 -->
+  <rect x="481" y="180" width="26" height="48" fill="#ede9df" stroke="#1e1208" stroke-width="0.9"/>
+  <line x1="494" y1="180" x2="494" y2="228" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="481" y1="204" x2="507" y2="204" stroke="#1e1208" stroke-width="0.5"/>
+  <line x1="482" y1="181" x2="490" y2="189" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="482" y1="185" x2="491" y2="194" stroke="#1e1208" stroke-width="0.35"/>
+  <line x1="482" y1="189" x2="492" y2="199" stroke="#1e1208" stroke-width="0.35"/>
+
+  <!-- ============================================================
+       WING WINDOWS
+       ============================================================ -->
+
+  <!-- LEFT WING · ground floor · 2 windows -->
+  <rect x="157" y="187" width="22" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="168" y1="187" x2="168" y2="225" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="157" y1="206" x2="179" y2="206" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="158" y1="188" x2="164" y2="194" stroke="#1e1208" stroke-width="0.3"/>
+  <line x1="158" y1="192" x2="165" y2="199" stroke="#1e1208" stroke-width="0.3"/>
+
+  <rect x="197" y="187" width="22" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="208" y1="187" x2="208" y2="225" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="197" y1="206" x2="219" y2="206" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="198" y1="188" x2="204" y2="194" stroke="#1e1208" stroke-width="0.3"/>
+  <line x1="198" y1="192" x2="205" y2="199" stroke="#1e1208" stroke-width="0.3"/>
+
+  <!-- LEFT WING · first floor · 2 windows -->
+  <rect x="157" y="126" width="22" height="34" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="168" y1="126" x2="168" y2="160" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="157" y1="143" x2="179" y2="143" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="158" y1="127" x2="164" y2="133" stroke="#1e1208" stroke-width="0.3"/>
+
+  <rect x="197" y="126" width="22" height="34" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="208" y1="126" x2="208" y2="160" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="197" y1="143" x2="219" y2="143" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="198" y1="127" x2="204" y2="133" stroke="#1e1208" stroke-width="0.3"/>
+
+  <!-- RIGHT WING · ground floor · 2 windows -->
+  <rect x="539" y="187" width="22" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="550" y1="187" x2="550" y2="225" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="539" y1="206" x2="561" y2="206" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="540" y1="188" x2="546" y2="194" stroke="#1e1208" stroke-width="0.3"/>
+  <line x1="540" y1="192" x2="547" y2="199" stroke="#1e1208" stroke-width="0.3"/>
+
+  <rect x="579" y="187" width="22" height="38" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="590" y1="187" x2="590" y2="225" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="579" y1="206" x2="601" y2="206" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="580" y1="188" x2="586" y2="194" stroke="#1e1208" stroke-width="0.3"/>
+  <line x1="580" y1="192" x2="587" y2="199" stroke="#1e1208" stroke-width="0.3"/>
+
+  <!-- RIGHT WING · first floor · 2 windows -->
+  <rect x="539" y="126" width="22" height="34" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="550" y1="126" x2="550" y2="160" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="539" y1="143" x2="561" y2="143" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="540" y1="127" x2="546" y2="133" stroke="#1e1208" stroke-width="0.3"/>
+
+  <rect x="579" y="126" width="22" height="34" fill="#ede9df" stroke="#1e1208" stroke-width="0.8"/>
+  <line x1="590" y1="126" x2="590" y2="160" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="579" y1="143" x2="601" y2="143" stroke="#1e1208" stroke-width="0.4"/>
+  <line x1="580" y1="127" x2="586" y2="133" stroke="#1e1208" stroke-width="0.3"/>
+
+  <!-- ============================================================
+       TERRACE / PLINTH / GROUND
+       ============================================================ -->
+  <!-- Plinth base of building -->
+  <line x1="144" y1="235" x2="616" y2="235" stroke="#1e1208" stroke-width="1.3"/>
+  <!-- Terrace ledge -->
+  <line x1="140" y1="248" x2="620" y2="248" stroke="#1e1208" stroke-width="1"/>
+  <line x1="140" y1="253" x2="620" y2="253" stroke="#1e1208" stroke-width="0.5"/>
+
+  <!-- Ground line -->
+  <line x1="20"  y1="256" x2="740" y2="256" stroke="#1e1208" stroke-width="1.5"/>
+
+  <!-- Curved driveway sweeping to door -->
+  <path d="M 20 284 Q 220 265 380 258 Q 540 265 740 284"
+        fill="none" stroke="#1e1208" stroke-width="0.7"/>
+  <path d="M 20 275 Q 220 260 380 257 Q 540 260 740 275"
+        fill="none" stroke="#1e1208" stroke-width="0.45"/>
+
+  <!-- Ground hatching -->
+  <g stroke="#1e1208" stroke-width="0.5" opacity="0.3">
+    <line x1="20" y1="261" x2="740" y2="261"/>
+    <line x1="20" y1="266" x2="740" y2="266"/>
+    <line x1="20" y1="271" x2="740" y2="271"/>
+    <line x1="20" y1="276" x2="740" y2="276"/>
+    <line x1="20" y1="281" x2="740" y2="281"/>
+    <line x1="20" y1="286" x2="740" y2="286"/>
+    <line x1="20" y1="291" x2="740" y2="291"/>
+    <line x1="20" y1="296" x2="740" y2="296"/>
+  </g>
+
+</svg>

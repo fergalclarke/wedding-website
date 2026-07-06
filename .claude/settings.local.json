@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open \"file:///Users/fergalclarke/claude_projects/wedding-website/index.html?invite=fn8kP2\")"
+    ]
+  }
+}
