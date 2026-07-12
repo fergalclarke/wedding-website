@@ -249,6 +249,9 @@ function initRSVPForm() {
           const g2last  = form.querySelector('#guest2-last-name')?.value.trim();
           const g2name  = `${g2first} ${g2last}`.trim();
           if (g2name) fields['Name'] = `${fields['Name']} & ${g2name}`;
+
+          const dietary2 = form.querySelector('#dietary2')?.value.trim();
+          if (dietary2) fields['Guest 2 Dietary Requirements'] = dietary2;
         }
 
         const dietary = form.querySelector('#dietary')?.value.trim();
